@@ -1,4 +1,4 @@
 # DevOps
 
 Witajcie studenci!
-W
+W!
