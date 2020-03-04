@@ -1,5 +1,7 @@
 # DevOps
 
-Witajcie studenci!
+Hello!
 
-żegnajcie studenci!
+This is DevOps practice.
+
+Initializing new repo.
